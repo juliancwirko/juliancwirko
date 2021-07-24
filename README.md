@@ -12,7 +12,7 @@
 
 **Main focus:**
 
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-blue?logo=react&style=flat-square&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-235a97?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-blue?logo=react&style=flat-square&logoColor=white" alt="React" />
 
 **Learning:**
 
