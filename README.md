@@ -6,16 +6,4 @@
 
 ## Lately on julian.io:
 
-- [Smart Contract for Elrond and Arwen](https://www.julian.io/articles/elrond-smart-contracts.html)
-- [react-tracked - so helpful tool](https://www.julian.io/articles/react-tracked.html)
-- [Building NPM package in 2021](https://www.julian.io/articles/es2020-npm-package.html)
-- [Moralis - building Web3 dApps made simple](https://www.julian.io/articles/moralis.html)
-- [Personal blog for free](https://www.julian.io/articles/blog-for-free.html)
-
-**Main focus:**
-
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-235a97?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-blue?logo=react&style=flat-square&logoColor=white" alt="React" />
-
-**Learning:**
-
-<img src="https://img.shields.io/badge/Rust-a72145?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/WebAssembly-6797e2?style=flat-square&logo=WebAssembly&logoColor=white" alt="Web Assembly" /> <img src="https://img.shields.io/badge/Blockchain-677185?style=flat-square" alt="Blockchain" />
+[Smart Contract for Elrond and Arwen](https://www.julian.io/articles/elrond-smart-contracts.html) | [react-tracked - so helpful tool](https://www.julian.io/articles/react-tracked.html) | [Building NPM package in 2021](https://www.julian.io/articles/es2020-npm-package.html) | [Moralis - building Web3 dApps made simple](https://www.julian.io/articles/moralis.html) | [Personal blog for free](https://www.julian.io/articles/blog-for-free.html)
