@@ -6,4 +6,4 @@
 
 ## Lately on julian.io:
 
-[Smart Contract for Elrond and Arwen](https://www.julian.io/articles/elrond-smart-contracts.html) | [react-tracked - so helpful tool](https://www.julian.io/articles/react-tracked.html) | [Building NPM package in 2021](https://www.julian.io/articles/es2020-npm-package.html) | [Moralis - building Web3 dApps made simple](https://www.julian.io/articles/moralis.html) | [Personal blog for free](https://www.julian.io/articles/blog-for-free.html)
+[Simple user interface for Elrond Smart Contract](https://www.julian.io/articles/elrond-dapp-ui.html) | [Smart Contract for Elrond and Arwen](https://www.julian.io/articles/elrond-smart-contracts.html) | [react-tracked - so helpful tool](https://www.julian.io/articles/react-tracked.html) | [Building NPM package in 2021](https://www.julian.io/articles/es2020-npm-package.html) | [Moralis - building Web3 dApps made simple](https://www.julian.io/articles/moralis.html) | [Personal blog for free](https://www.julian.io/articles/blog-for-free.html)
