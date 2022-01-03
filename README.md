@@ -6,8 +6,8 @@
 
 ## Lately on julian.io:
 
+- [My blog is now a Progressive Web Application](https://www.julian.io/articles/pwa.html)
 - [Building NFT related CLI tool with Elrond's JavaScript SDK](https://www.julian.io/articles/elrond-erdjs.html)
 - [Tools for automated NFT minting](https://www.julian.io/articles/elven-nft-tools.html)
 - [Simple user interface for Elrond Smart Contract](https://www.julian.io/articles/elrond-dapp-ui.html)
 - [Smart Contract for Elrond and Arwen](https://www.julian.io/articles/elrond-smart-contracts.html)
-- [Personal blog for free](https://www.julian.io/articles/blog-for-free.html)
