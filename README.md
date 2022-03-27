@@ -6,9 +6,9 @@
 
 ## Lately on julian.io and elven.tools:
 
+- [Use of IPFS in the Elrond NFT ecosystem](https://www.elven.tools/docs/use-of-ipfs-in-the-elrond-nft-ecosystem.html)
 - [How to start with the Elrond blockchain development](https://www.julian.io/articles/how-to-start-with-elrond.html)
 - [Elven Tools workflows](https://www.elven.tools/docs/elven-tools-workflows.html)
 - [Tips on buying NFTs on the Elrond blockchain](https://www.elven.tools/docs/tips-on-buying-nfts-on-the-elrond-blockchain.html)
 - [My blog is now a Progressive Web Application](https://www.julian.io/articles/pwa.html)
 - [Building NFT related CLI tool with Elrond's JavaScript SDK](https://www.julian.io/articles/elrond-erdjs.html)
-- [Simple user interface for Elrond Smart Contract](https://www.julian.io/articles/elrond-dapp-ui.html)
