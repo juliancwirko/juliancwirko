@@ -4,9 +4,9 @@
 
 ## Lately on julian.io, Elven Tools and Elrond's Dev Guild:
 
+- [Elrond blockchain - setup the erdjs workflow and issue an ESDT token in NodeJS enviroment](https://elrond-dev-guild.gitbook.io/scrolls/erdjs/how-tos/setup-erdjs-and-issue-esdt-token)
 - [Elrond's Dev Inventory](https://elrond-dev-guild.gitbook.io/scrolls/introduction/elrond-dev-inventory)
 - [Use of IPFS in the Elrond NFT ecosystem](https://www.elven.tools/docs/use-of-ipfs-in-the-elrond-nft-ecosystem.html)
 - [How to start with the Elrond blockchain development](https://www.julian.io/articles/how-to-start-with-elrond.html)
 - [Elven Tools workflows](https://www.elven.tools/docs/elven-tools-workflows.html)
 - [Tips on buying NFTs on the Elrond blockchain](https://www.elven.tools/docs/tips-on-buying-nfts-on-the-elrond-blockchain.html)
-- [My blog is now a Progressive Web Application](https://www.julian.io/articles/pwa.html)
