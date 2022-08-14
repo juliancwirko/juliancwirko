@@ -4,9 +4,9 @@
 
 ## Lately on julian.io, Elven Tools and Elrond's Dev Guild:
 
+- [How to prepare the Linux environment for Elrond development](https://elrond-dev-guild.gitbook.io/scrolls/readme/linux-environment-for-development)
 - [PFP NFTs on the Elrond blockchain](https://www.julian.io/articles/pfp-nft-elrond-blockchain.html)
 - [Elrond blockchain - setup the erdjs workflow and issue an ESDT token in NodeJS enviroment](https://elrond-dev-guild.gitbook.io/scrolls/erdjs/how-tos/setup-erdjs-and-issue-esdt-token)
 - [Elrond's Dev Inventory](https://elrond-dev-guild.gitbook.io/scrolls/introduction/elrond-dev-inventory)
 - [Use of IPFS in the Elrond NFT ecosystem](https://www.elven.tools/docs/use-of-ipfs-in-the-elrond-nft-ecosystem.html)
 - [How to start with the Elrond blockchain development](https://www.julian.io/articles/how-to-start-with-elrond.html)
-- [Elven Tools workflows](https://www.elven.tools/docs/elven-tools-workflows.html)
