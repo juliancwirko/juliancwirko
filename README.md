@@ -2,7 +2,7 @@
 <a href="https://twitter.com/JulianCwirko"><img src="https://img.shields.io/twitter/follow/juliancwirko?style=social" alt="Twitter" /></a>
 <a href="https://www.youtube.com/channel/UCaj-mgcY9CWbLdZsC5Gt00g"><img src="https://img.shields.io/youtube/channel/views/UCaj-mgcY9CWbLdZsC5Gt00g?style=social" alt="Youtube" /></a>
 
-## Lately on julian.io, Elven Tools and Elrond's Dev Guild:
+## Lately on julian.io, Elven Tools and xDevGuild:
 
 - [How to enable donations on any website using the Elrond blockchain and EGLD tokens](https://dev.to/juliancwirko/how-to-enable-donations-on-any-website-using-the-elrond-blockchain-and-egld-tokens-3fkf)
 - [How to Interact with the Elrond blockchain in a simple static website](https://hackernoon.com/how-to-interact-with-the-elrond-blockchain-in-a-simple-static-website)
